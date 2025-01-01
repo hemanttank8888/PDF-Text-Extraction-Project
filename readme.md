@@ -10,7 +10,7 @@ This project demonstrates how to extract text from a PDF document using multiple
 ## Installation
 - To run the app locally, follow the steps below:
 ```bash
-git clone 
+git clone https://github.com/hemanttank8888/PDF-Text-Extraction-Project.git
 cd /path/to/your/project
 python -m venv venv
 .\venv\Scripts\activate
